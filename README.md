@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://github.com/okutaybozkurt/PortGuard/releases">Download</a> &middot;
   <a href="https://github.com/okutaybozkurt/PortGuard">Source code</a> &middot;
-  <a href="https://orhankutaybozkurt.com/projects/portguard#video">Launch video</a>
+  <a href="https://orhankutaybozkurt.com/en/projects/portguard#video">Launch video</a>
 </p>
 
 ---
@@ -65,7 +65,7 @@ macOS 13.0 or later.
 ## Links
 
 - Releases and installation: [github.com/okutaybozkurt/PortGuard](https://github.com/okutaybozkurt/PortGuard/releases)
-- Launch video: [orhankutaybozkurt.com](https://orhankutaybozkurt.com/projects/portguard#video)
+- Launch video: [orhankutaybozkurt.com](https://orhankutaybozkurt.com/en/projects/portguard#video)
 - License: MIT
 
 ## Author
